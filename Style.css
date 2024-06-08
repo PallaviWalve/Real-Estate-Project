@@ -61,6 +61,8 @@
 .column{
 	width: 700px;
 	height: 500px;
+	padding-top: 50px;
+
 }
 
 .images{
@@ -77,4 +79,17 @@
 }
 .row_image{
 	padding-top: 50px;
+}
+
+.image2{
+	padding-top: 50px;
+}
+.para{
+	padding-top: 50px;
+	text-align: justify;
+	font-size:xx-large;
+}
+.image{
+	width: 100px;
+	height: 100px;
 }
