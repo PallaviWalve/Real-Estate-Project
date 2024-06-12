@@ -76,6 +76,7 @@
 	height: 50px;
 }
 .heading{
+	padding-top: 20px;
 	text-align: center;
 	font-family: "BlinkMacSystemFont";
 	text-transform: uppercase;
@@ -115,4 +116,25 @@
 }
 .serve{
 	padding-top: 50px;
+}
+
+.client{
+	padding-top: 50px;
+	text-align: center;
+}
+.footer{
+	padding-top: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: grey;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: white;
+}
+.footer-content{
+	padding-top: 30px;
+	color: white;
+}
+.icons{
+	width: 40px;
+	height: 40px;
 }
